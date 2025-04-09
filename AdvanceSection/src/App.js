@@ -1,6 +1,6 @@
 import React from "react";
 
-import Setup from "./tutorial/11-react-router/setup";
+import Setup from "./tutorial/12-memo-useMemo-useCallback/setup/index.js";
 
 function App() {
   return (
